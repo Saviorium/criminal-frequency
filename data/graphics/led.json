@@ -1,0 +1,38 @@
+{ "frames": [
+   {
+    "filename": "led 0.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 10, "h": 10 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 10, "h": 10 },
+    "sourceSize": { "w": 10, "h": 10 },
+    "duration": 100
+   },
+   {
+    "filename": "led 1.aseprite",
+    "frame": { "x": 10, "y": 0, "w": 10, "h": 10 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 10, "h": 10 },
+    "sourceSize": { "w": 10, "h": 10 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.9-x64",
+  "image": "E:\\Documents\\Projects\\Programming\\lua-love\\love-jam-2020\\led.png",
+  "format": "RGBA8888",
+  "size": { "w": 20, "h": 10 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "led-off", "from": 0, "to": 0, "direction": "forward" },
+   { "name": "led-on", "from": 1, "to": 1, "direction": "forward" }
+  ],
+  "layers": [
+   { "name": "Layer 1", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}
